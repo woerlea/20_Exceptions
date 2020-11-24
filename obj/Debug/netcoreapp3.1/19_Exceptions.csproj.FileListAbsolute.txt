@@ -1,0 +1,13 @@
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.csprojAssemblyReference.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.AssemblyInfoInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.AssemblyInfo.cs
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.exe
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.deps.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.runtimeconfig.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.runtimeconfig.dev.json
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\bin\Debug\netcoreapp3.1\19_Exceptions.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.dll
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.pdb
+C:\Users\DCV\Documents\DigitalCampusAufgaben\OOP\OOP\19_Exceptions\obj\Debug\netcoreapp3.1\19_Exceptions.genruntimeconfig.cache
